@@ -10,8 +10,9 @@ class Tela_Inicial extends StatefulWidget {
 class _Tela_InicialState extends State<Tela_Inicial> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: ,
+    return Container(
+      color: Colors.green,
+      child: ,
     );
   }
 }
