@@ -10,6 +10,13 @@ class CaraOuCoroa extends StatefulWidget {
 class _CaraOuCoroaState extends State<CaraOuCoroa> {
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Scaffold(
+      appBar: AppBar(
+        title: Text("Cara ou Coroa"),
+        backgroundColor: Colors.green,
+
+      ),
+      body: ,
+    );
   }
 }
